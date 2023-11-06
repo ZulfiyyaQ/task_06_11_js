@@ -1,0 +1,18 @@
+/* #table{
+    border: 2px solid rgb(42, 40, 40);
+    background-color: blueviolet;
+    color: white;
+    border-collapse: collapse;
+} */
+
+th,td{
+border: 1px solid black;
+padding: 5px;
+}
+table
+{
+    border-collapse: collapse;
+    background-color: blueviolet;
+    color: white;
+}
+
